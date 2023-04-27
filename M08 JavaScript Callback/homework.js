@@ -68,12 +68,6 @@ function filter(arrayOfStrings) {
 let resultado = arrayOfStrings.filter(arrayOfStrings => arrayOfStrings.charAt(0) === 'a');
 return resultado;
 
-//for (let i=0; i<arrayOfStrings.length;i++){
-//   if(arrayOfStrings[i].charAt(0) === 'a'){
-//      arr.add(arrayOfStrings[i])
-//   }
-//}
-//return nuevo;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
